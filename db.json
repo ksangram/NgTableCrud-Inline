@@ -1,0 +1,49 @@
+{
+	"Player":
+	[
+		{
+			"id":1,
+			"name":"Sachin",
+			"type":"Batsman",
+			"country":"India",
+			"rank":1
+		},
+		{
+			"id":2,
+			"name":"Rahul",
+			"type":"Batsman",
+			"country":"India",
+			"rank":2
+		},
+		{
+			"id":3,
+			"name":"Adam Gilly",
+			"type":"Batsman",
+			"country":"Aussi",
+			"rank":3
+		},
+		{
+			"id":4,
+			"name":"Lara",
+			"type":"Batsman",
+			"country":"West Indies",
+			"rank":4
+		},
+		{
+			"id":5,
+			"name":"Yuvi",
+			"type":"Batsman",
+			"country":"India",
+			"rank":5
+		},
+		{
+			"id":6,
+			"name":"Peterson",
+			"type":"Batsman",
+			"country":"England",
+			"rank":6
+		}
+
+	]
+
+}
